@@ -11,7 +11,7 @@ class Thread_syncM_1  extends Thread {
         this.t1 = t ; 
     }
         public void run () {
-           t1.print(2);`
+           t1.print(2) ;
         }
 }
 class Thread_syncM_2  extends Thread { 
